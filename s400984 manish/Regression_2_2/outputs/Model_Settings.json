@@ -1,0 +1,53 @@
+{
+  "task": "Linear Regression 2.2 \u2014 team goals scored",
+  "estimator": "sklearn.linear_model.LinearRegression(fit_intercept=True)",
+  "features": [
+    "team_fifa_rank",
+    "team_elo_rating_before",
+    "team_last5_avg_goals_scored",
+    "team_last5_win_rate",
+    "is_knockout",
+    "is_host_nation",
+    "wc_matches_played_before",
+    "wc_goals_conceded_before"
+  ],
+  "target": "goals_scored",
+  "shared_2_1_concepts": [
+    "team_fifa_rank",
+    "team_elo_rating_before",
+    "team_last5_avg_goals_scored",
+    "team_last5_win_rate"
+  ],
+  "new_2_2_features": [
+    "is_knockout",
+    "is_host_nation",
+    "wc_matches_played_before",
+    "wc_goals_conceded_before"
+  ],
+  "match_count": 104,
+  "team_row_count": 208,
+  "training_rows": 164,
+  "testing_rows": 44,
+  "training_matches": 82,
+  "testing_matches": 22,
+  "first_test_date": "2026-07-02",
+  "intercept": -1.1108132332996485,
+  "notes": [
+    "Stage is known before kickoff; is_knockout is therefore pre-match.",
+    "World Cup cumulative histories include only matches from earlier dates.",
+    "FIFA/ Elo/ previous-five-match data are reused from the source workbook and require source verification.",
+    "Penalty shootout goals are not included in the original master goal totals.",
+    "Match-based date split keeps both team observations for each match together.",
+    "This ordinary linear regression can output negative goal predictions; interpret with caution."
+  ],
+  "metrics": {
+    "train_MAE": 0.9643354904712643,
+    "train_RMSE": 1.268221730217803,
+    "train_R2": 0.18800263805196482,
+    "test_MAE": 0.9818705492316441,
+    "test_RMSE": 1.266169518717473,
+    "test_R2": 0.08362366570705526,
+    "test_mean_baseline_MAE": 1.065410199556541,
+    "test_mean_baseline_RMSE": 1.3237504732988465
+  }
+}

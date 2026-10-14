@@ -1,0 +1,209 @@
+match_id,match_date,team,opponent,side,stage,team_fifa_rank,team_elo_rating_before,team_last5_avg_goals_scored,team_last5_win_rate,is_knockout,is_host_nation,wc_matches_played_before,wc_goals_conceded_before,goals_scored,data_split,predicted_goals
+1,2026-06-11,Mexico,South Africa,A,Group Stage,14.0,1875.0,1.8,0.6,0,1,0,0,2,train,2.580596957525084
+1,2026-06-11,South Africa,Mexico,B,Group Stage,60.0,1517.0,0.8,0.2,0,0,0,0,0,train,0.6638806278200757
+2,2026-06-11,Korea Republic,Czechia,A,Group Stage,25.0,1758.0,1.4,0.6,0,0,0,0,2,train,1.4325532274591921
+2,2026-06-11,Czechia,Korea Republic,B,Group Stage,40.0,1740.0,3.4,0.6,0,0,0,0,1,train,1.2316595376855008
+3,2026-06-12,Canada,Bosnia and Herzegovina,A,Group Stage,30.0,1788.0,1.4,0.4,0,1,0,0,1,train,2.2786953975959117
+3,2026-06-12,Bosnia and Herzegovina,Canada,B,Group Stage,64.0,1595.0,0.8,0.0,0,0,0,0,1,train,0.8714704963584845
+4,2026-06-12,USA,Paraguay,A,Group Stage,17.0,1726.0,2.2,0.4,0,1,0,0,4,train,2.395988496525586
+4,2026-06-12,Paraguay,USA,B,Group Stage,41.0,1834.0,1.8,0.6,0,0,0,0,1,train,1.3353691774478775
+5,2026-06-13,Haiti,Scotland,A,Group Stage,83.0,1548.0,1.6,0.4,0,0,0,0,0,train,0.26083783663105997
+5,2026-06-13,Scotland,Haiti,B,Group Stage,42.0,1782.0,2.4,0.6,0,0,0,0,1,train,1.2436855909596092
+6,2026-06-13,Australia,Türkiye,A,Group Stage,27.0,1777.0,1.4,0.4,0,0,0,0,2,train,1.5620470375310826
+6,2026-06-13,Türkiye,Australia,B,Group Stage,22.0,1911.0,2.0,0.8,0,0,0,0,0,train,1.6590783998137975
+7,2026-06-13,Brazil,Morocco,A,Group Stage,6.0,1991.0,2.6,0.6,0,0,0,0,1,train,2.2063024833057545
+7,2026-06-13,Morocco,Brazil,B,Group Stage,7.0,1827.0,2.6,0.6,0,0,0,0,1,train,1.8858380234991616
+8,2026-06-13,Qatar,Switzerland,A,Group Stage,56.0,1421.0,0.2,0.0,0,0,0,0,1,train,0.6535879374579843
+8,2026-06-13,Switzerland,Qatar,B,Group Stage,19.0,1891.0,1.8,0.2,0,0,0,0,1,train,2.0394533418438376
+9,2026-06-14,Côte d'Ivoire,Ecuador,A,Group Stage,33.0,1695.0,2.4,0.8,0,0,0,0,1,train,1.098181052906168
+9,2026-06-14,Ecuador,Côte d'Ivoire,B,Group Stage,23.0,1938.0,1.8,0.6,0,0,0,0,0,train,1.8123001579174607
+10,2026-06-14,Germany,Curaçao,A,Group Stage,10.0,1932.0,3.6,1.0,0,0,0,0,7,train,1.816691985957309
+10,2026-06-14,Curaçao,Germany,B,Group Stage,82.0,1434.0,1.2,0.2,0,0,0,0,1,train,0.17671500479803037
+11,2026-06-14,Netherlands,Japan,A,Group Stage,8.0,1948.0,1.8,0.6,0,0,0,0,2,train,2.0673001395246864
+11,2026-06-14,Japan,Netherlands,B,Group Stage,18.0,1906.0,1.6,1.0,0,0,0,0,2,train,1.573324594445867
+12,2026-06-14,Sweden,Tunisia,A,Group Stage,38.0,1712.0,2.0,0.4,0,0,0,0,5,train,1.2885964739993103
+12,2026-06-14,Tunisia,Sweden,B,Group Stage,45.0,1628.0,0.4,0.2,0,0,0,0,1,train,1.092739151631971
+13,2026-06-15,Saudi Arabia,Uruguay,A,Group Stage,61.0,1576.0,1.0,0.2,0,0,0,0,1,train,0.7646350403344018
+13,2026-06-15,Uruguay,Saudi Arabia,B,Group Stage,16.0,1892.0,0.8,0.2,0,0,0,0,1,train,2.054110463849553
+14,2026-06-15,Spain,Cabo Verde,A,Group Stage,2.0,2157.0,1.8,0.4,0,0,0,0,0,train,2.6758945753221157
+14,2026-06-15,Cabo Verde,Spain,B,Group Stage,67.0,1578.0,1.4,0.2,0,0,0,0,0,train,0.6875766932246414
+15,2026-06-15,IR Iran,New Zealand,A,Group Stage,20.0,1772.0,2.2,0.6,0,0,0,0,2,train,1.5649592514881376
+15,2026-06-15,New Zealand,IR Iran,B,Group Stage,85.0,1562.0,0.8,0.2,0,0,0,0,2,train,0.3534539753952375
+16,2026-06-15,Belgium,Egypt,A,Group Stage,9.0,1894.0,4.0,0.8,0,0,0,0,1,train,1.9013609686972608
+16,2026-06-15,Egypt,Belgium,B,Group Stage,29.0,1696.0,1.2,0.4,0,0,0,0,1,train,1.3731337150994605
+17,2026-06-16,France,Senegal,A,Group Stage,3.0,2063.0,2.4,0.8,0,0,0,0,3,train,2.2547461126884167
+17,2026-06-16,Senegal,France,B,Group Stage,15.0,1860.0,1.4,0.4,0,0,0,0,1,train,1.9053929488013022
+18,2026-06-16,Iraq,Norway,A,Group Stage,57.0,1607.0,0.8,0.4,0,0,0,0,1,train,0.7526642651661901
+18,2026-06-16,Norway,Iraq,B,Group Stage,31.0,1914.0,1.8,0.4,0,0,0,0,4,train,1.7673340938345523
+19,2026-06-16,Argentina,Algeria,A,Group Stage,1.0,2115.0,2.8,1.0,0,0,0,0,3,train,2.2709604173361706
+19,2026-06-16,Algeria,Argentina,B,Group Stage,28.0,1772.0,2.4,0.6,0,0,0,0,0,train,1.4457652906503646
+20,2026-06-16,Austria,Jordan,A,Group Stage,24.0,1830.0,2.0,0.8,0,0,0,0,3,train,1.477062063109363
+20,2026-06-16,Jordan,Austria,B,Group Stage,63.0,1680.0,1.4,0.0,0,0,0,0,1,train,1.0658482046430315
+21,2026-06-17,Ghana,Panama,A,Group Stage,73.0,1510.0,0.6,0.0,0,0,0,0,1,train,0.5647958129633526
+21,2026-06-17,Panama,Ghana,B,Group Stage,34.0,1730.0,2.0,0.4,0,0,0,0,0,train,1.3850849695180558
+22,2026-06-17,England,Croatia,A,Group Stage,4.0,2024.0,1.4,0.6,0,0,0,0,4,train,2.257755513017023
+22,2026-06-17,Croatia,England,B,Group Stage,11.0,1912.0,1.6,0.6,0,0,0,0,2,train,1.9462330043631082
+23,2026-06-17,Portugal,Congo DR,A,Group Stage,5.0,1989.0,3.0,0.8,0,0,0,0,1,train,2.1064263529240925
+23,2026-06-17,Congo DR,Portugal,B,Group Stage,46.0,1652.0,0.8,0.4,0,0,0,0,1,train,1.009646872283674
+24,2026-06-17,Uzbekistan,Colombia,A,Group Stage,50.0,1714.0,1.2,0.2,0,0,0,0,1,train,1.2013035813997777
+24,2026-06-17,Colombia,Uzbekistan,B,Group Stage,13.0,1982.0,2.0,0.6,0,0,0,0,3,train,2.058560436761719
+25,2026-06-18,Czechia,South Africa,A,Group Stage,40.0,1712.0,2.4,0.4,0,0,1,2,1,train,1.2564048214396586
+25,2026-06-18,South Africa,Czechia,B,Group Stage,60.0,1511.0,0.6,0.2,0,0,1,2,1,train,0.6313730806413462
+26,2026-06-18,Switzerland,Bosnia and Herzegovina,A,Group Stage,19.0,1865.0,1.8,0.2,0,0,1,1,4,train,1.969178181936354
+26,2026-06-18,Bosnia and Herzegovina,Switzerland,B,Group Stage,64.0,1616.0,0.8,0.0,0,0,1,1,1,train,0.8885187834012493
+27,2026-06-18,Canada,Qatar,A,Group Stage,30.0,1767.0,1.2,0.2,0,1,1,1,6,train,2.3365285591572764
+27,2026-06-18,Qatar,Canada,B,Group Stage,56.0,1447.0,0.4,0.0,0,0,1,1,0,train,0.6868229386268991
+28,2026-06-18,Mexico,Korea Republic,A,Group Stage,14.0,1881.0,2.2,0.8,0,1,1,0,1,train,2.4503487671681725
+28,2026-06-18,Korea Republic,Mexico,B,Group Stage,25.0,1786.0,1.6,0.6,0,0,1,1,0,train,1.4695041199876917
+29,2026-06-19,Brazil,Haiti,A,Group Stage,6.0,1978.0,2.6,0.6,0,0,1,1,3,train,2.160180617235574
+29,2026-06-19,Haiti,Brazil,B,Group Stage,83.0,1536.0,1.2,0.2,0,0,1,1,0,train,0.3284955235833691
+30,2026-06-19,Scotland,Morocco,A,Group Stage,42.0,1794.0,1.8,0.6,0,0,1,0,0,train,1.2158157248425872
+30,2026-06-19,Morocco,Scotland,B,Group Stage,7.0,1840.0,2.6,0.6,0,0,1,1,1,train,1.8880227451035865
+31,2026-06-19,Türkiye,Paraguay,A,Group Stage,22.0,1849.0,1.6,0.8,0,0,1,2,0,train,1.5156289088394994
+31,2026-06-19,Paraguay,Türkiye,B,Group Stage,41.0,1780.0,1.8,0.6,0,0,1,4,1,train,1.2355885930864774
+32,2026-06-19,USA,Australia,A,Group Stage,17.0,1780.0,2.0,0.4,0,1,1,1,2,train,2.4674520052743167
+32,2026-06-19,Australia,USA,B,Group Stage,27.0,1839.0,1.8,0.6,0,0,1,0,0,train,1.5358438052425514
+33,2026-06-20,Germany,Côte d'Ivoire,A,Group Stage,10.0,1939.0,3.8,1.0,0,0,1,1,2,train,1.8146260192101653
+33,2026-06-20,Côte d'Ivoire,Germany,B,Group Stage,33.0,1743.0,2.0,0.8,0,0,1,0,1,train,1.144094216988864
+34,2026-06-20,Ecuador,Curaçao,A,Group Stage,23.0,1890.0,1.4,0.4,0,0,1,1,0,train,1.8130718003972393
+34,2026-06-20,Curaçao,Ecuador,B,Group Stage,82.0,1427.0,1.4,0.2,0,0,1,7,0,train,0.19367190769434006
+35,2026-06-20,Netherlands,Sweden,A,Group Stage,8.0,1944.0,1.4,0.4,0,0,1,2,5,train,2.1573270767754273
+35,2026-06-20,Sweden,Netherlands,B,Group Stage,38.0,1755.0,2.8,0.6,0,0,1,1,1,train,1.248391930109188
+36,2026-06-20,Tunisia,Japan,A,Group Stage,45.0,1585.0,0.4,0.2,0,0,1,5,0,train,1.0209016546083804
+36,2026-06-20,Japan,Tunisia,B,Group Stage,18.0,1910.0,1.6,0.8,0,0,1,2,4,train,1.6920090685893234
+37,2026-06-21,Uruguay,Cabo Verde,A,Group Stage,16.0,1870.0,0.6,0.0,0,0,1,1,2,train,2.1100856797311245
+37,2026-06-21,Cabo Verde,Uruguay,B,Group Stage,67.0,1606.0,1.2,0.2,0,0,1,0,2,train,0.703227929438675
+38,2026-06-21,Spain,Saudi Arabia,A,Group Stage,2.0,2129.0,1.4,0.4,0,0,1,0,4,train,2.5806038677405807
+38,2026-06-21,Saudi Arabia,Spain,B,Group Stage,61.0,1598.0,1.2,0.2,0,0,1,1,0,train,0.7904382587841465
+39,2026-06-21,Belgium,IR Iran,A,Group Stage,9.0,1879.0,2.8,0.6,0,0,1,1,0,train,1.935856875701442
+39,2026-06-21,IR Iran,Belgium,B,Group Stage,20.0,1756.0,2.6,0.6,0,0,1,2,0,train,1.5345632046930453
+40,2026-06-21,New Zealand,Egypt,A,Group Stage,85.0,1578.0,1.2,0.2,0,0,1,2,1,train,0.38251219035350625
+40,2026-06-21,Egypt,New Zealand,B,Group Stage,29.0,1711.0,1.4,0.4,0,0,1,1,3,train,1.385931313790658
+41,2026-06-22,Norway,Senegal,A,Group Stage,31.0,1929.0,1.8,0.4,0,0,1,1,3,train,1.7732347067985617
+41,2026-06-22,Senegal,Norway,B,Group Stage,15.0,1839.0,1.6,0.4,0,0,1,3,2,train,1.8663158727401512
+42,2026-06-22,France,Iraq,A,Group Stage,3.0,2084.0,2.4,0.8,0,0,1,1,3,train,2.2717943997311814
+42,2026-06-22,Iraq,France,B,Group Stage,57.0,1592.0,1.0,0.4,0,0,1,4,0,train,0.7322405480438856
+43,2026-06-22,Argentina,Austria,A,Group Stage,1.0,2128.0,3.0,1.0,0,0,1,0,2,train,2.2725364398076913
+43,2026-06-22,Austria,Argentina,B,Group Stage,24.0,1857.0,2.2,0.8,0,0,1,1,0,train,1.5121550099580705
+44,2026-06-22,Jordan,Algeria,A,Group Stage,63.0,1653.0,1.2,0.0,0,0,1,3,1,train,1.0018294830487504
+44,2026-06-22,Algeria,Jordan,B,Group Stage,28.0,1759.0,2.4,0.6,0,0,1,3,2,train,1.4146547943003667
+45,2026-06-23,England,Ghana,A,Group Stage,4.0,2055.0,1.8,0.6,0,0,1,2,0,train,2.314682913172179
+45,2026-06-23,Ghana,England,B,Group Stage,73.0,1557.0,0.8,0.2,0,0,1,0,0,train,0.5038264097507459
+46,2026-06-23,Panama,Croatia,A,Group Stage,34.0,1683.0,1.8,0.4,0,0,1,1,0,train,1.268895964607742
+46,2026-06-23,Croatia,Panama,B,Group Stage,11.0,1881.0,1.4,0.4,0,0,1,4,1,train,2.0080037637068218
+47,2026-06-23,Portugal,Uzbekistan,A,Group Stage,5.0,1967.0,1.4,0.6,0,0,1,1,5,train,2.1141226687153516
+47,2026-06-23,Uzbekistan,Portugal,B,Group Stage,50.0,1698.0,1.0,0.2,0,0,1,3,0,train,1.1577222622832142
+48,2026-06-23,Colombia,Congo DR,A,Group Stage,13.0,1998.0,2.0,0.6,0,0,1,1,1,train,2.0663189954055214
+48,2026-06-23,Congo DR,Colombia,B,Group Stage,46.0,1674.0,1.0,0.4,0,0,1,1,0,train,1.0354500907334183
+49,2026-06-24,Scotland,Brazil,A,Group Stage,42.0,1768.0,1.8,0.6,0,0,2,1,0,train,1.1455405649351034
+49,2026-06-24,Brazil,Scotland,B,Group Stage,6.0,1986.0,3.0,0.8,0,0,2,1,3,train,2.0336483182382477
+50,2026-06-24,Morocco,Haiti,A,Group Stage,7.0,1866.0,2.4,0.6,0,0,2,1,4,train,1.8999580899580348
+50,2026-06-24,Haiti,Morocco,B,Group Stage,83.0,1528.0,1.2,0.2,0,0,2,4,2,train,0.30667475563233326
+51,2026-06-24,Switzerland,Canada,A,Group Stage,19.0,1885.0,2.0,0.4,0,0,2,2,2,train,1.8655499302294405
+51,2026-06-24,Canada,Switzerland,B,Group Stage,30.0,1777.0,2.0,0.4,0,1,2,1,1,train,2.2275061229739084
+52,2026-06-24,Bosnia and Herzegovina,Qatar,A,Group Stage,64.0,1596.0,0.8,0.0,0,0,2,5,3,train,0.8519083521527948
+52,2026-06-24,Qatar,Bosnia and Herzegovina,B,Group Stage,56.0,1437.0,0.2,0.0,0,0,2,7,1,train,0.6769063481693649
+53,2026-06-24,Czechia,Mexico,A,Group Stage,40.0,1696.0,2.2,0.4,0,0,2,3,0,train,1.1978121326029123
+53,2026-06-24,Mexico,Czechia,B,Group Stage,14.0,1896.0,2.2,1.0,0,1,2,0,3,train,2.323028116475018
+54,2026-06-24,South Africa,Korea Republic,A,Group Stage,60.0,1527.0,0.6,0.2,0,0,2,3,1,train,0.6391316392851483
+54,2026-06-24,Korea Republic,South Africa,B,Group Stage,25.0,1771.0,1.6,0.6,0,0,2,2,0,train,1.419666362557926
+55,2026-06-25,Curaçao,Côte d'Ivoire,A,Group Stage,82.0,1453.0,1.4,0.2,0,0,2,7,0,train,0.2125042382759761
+55,2026-06-25,Côte d'Ivoire,Curaçao,B,Group Stage,33.0,1728.0,1.8,0.8,0,0,2,2,2,train,1.0948651586920024
+56,2026-06-25,Ecuador,Germany,A,Group Stage,23.0,1864.0,1.2,0.4,0,0,2,1,2,train,1.7283939699024764
+56,2026-06-25,Germany,Ecuador,B,Group Stage,10.0,1954.0,3.4,1.0,0,0,2,2,1,train,1.8067326607197998
+57,2026-06-25,Japan,Sweden,A,Group Stage,18.0,1925.0,1.8,0.8,0,0,2,2,1,train,1.697300982420429
+57,2026-06-25,Sweden,Japan,B,Group Stage,38.0,1727.0,2.4,0.4,0,0,2,6,1,train,1.316345225625182
+58,2026-06-25,Tunisia,Netherlands,A,Group Stage,45.0,1570.0,0.2,0.0,0,0,2,9,1,train,1.1123995448287733
+58,2026-06-25,Netherlands,Tunisia,B,Group Stage,8.0,1972.0,2.0,0.4,0,0,2,3,3,train,2.208071940758302
+59,2026-06-25,Türkiye,USA,A,Group Stage,22.0,1813.0,1.4,0.6,0,0,2,3,3,train,1.5455928852039758
+59,2026-06-25,USA,Türkiye,B,Group Stage,17.0,1820.0,2.0,0.6,0,1,2,1,2,train,2.386579996575975
+60,2026-06-25,Paraguay,Australia,A,Group Stage,41.0,1816.0,1.6,0.6,0,0,2,4,0,train,1.266103394738851
+60,2026-06-25,Australia,Paraguay,B,Group Stage,27.0,1799.0,1.6,0.4,0,0,2,2,0,train,1.5658816837479488
+61,2026-06-26,Norway,France,A,Group Stage,31.0,1951.0,2.2,0.6,0,0,2,3,1,train,1.6877250170385125
+61,2026-06-26,France,Norway,B,Group Stage,3.0,2090.0,2.6,0.8,0,0,2,1,4,train,2.260364802444154
+62,2026-06-26,Senegal,Iraq,A,Group Stage,15.0,1817.0,1.6,0.2,0,0,2,6,5,train,1.944199444069093
+62,2026-06-26,Iraq,Senegal,B,Group Stage,57.0,1586.0,0.6,0.2,0,0,2,7,0,train,0.8260572787951326
+63,2026-06-26,Egypt,IR Iran,A,Group Stage,29.0,1740.0,1.2,0.4,0,0,2,2,1,train,1.410946180544575
+63,2026-06-26,IR Iran,Egypt,B,Group Stage,20.0,1766.0,2.4,0.6,0,0,2,2,1,train,1.5167714186708137
+64,2026-06-26,New Zealand,Belgium,A,Group Stage,85.0,1549.0,1.4,0.2,0,0,2,5,1,train,0.32857154885401507
+64,2026-06-26,Belgium,New Zealand,B,Group Stage,9.0,1869.0,1.8,0.4,0,0,2,1,5,train,1.9790338119716824
+65,2026-06-26,Cabo Verde,Saudi Arabia,A,Group Stage,67.0,1625.0,1.2,0.2,0,0,2,2,0,train,0.724066009981946
+65,2026-06-26,Saudi Arabia,Cabo Verde,B,Group Stage,61.0,1593.0,1.0,0.2,0,0,2,5,0,train,0.7748000270053923
+66,2026-06-26,Uruguay,Spain,A,Group Stage,16.0,1851.0,1.0,0.0,0,0,2,3,0,train,2.0741157958966543
+66,2026-06-26,Spain,Uruguay,B,Group Stage,2.0,2134.0,1.6,0.4,0,0,2,0,1,train,2.5673163247737607
+67,2026-06-27,Panama,England,A,Group Stage,34.0,1668.0,1.4,0.2,0,0,2,2,0,train,1.330979814520674
+67,2026-06-27,England,Panama,B,Group Stage,4.0,2028.0,1.6,0.6,0,0,2,2,2,train,2.2281471369976247
+68,2026-06-27,Croatia,Ghana,A,Group Stage,11.0,1896.0,1.2,0.4,0,0,2,4,2,train,1.9995017060835518
+68,2026-06-27,Ghana,Croatia,B,Group Stage,73.0,1584.0,0.6,0.2,0,0,2,0,1,train,0.5176197002849869
+69,2026-06-27,Algeria,Austria,A,Group Stage,28.0,1780.0,1.4,0.6,0,0,2,4,3,train,1.3972181527071939
+69,2026-06-27,Austria,Algeria,B,Group Stage,24.0,1841.0,2.0,0.8,0,0,2,3,3,train,1.461068005981416
+70,2026-06-27,Jordan,Argentina,A,Group Stage,63.0,1632.0,1.0,0.0,0,0,2,5,1,train,0.9414527506731332
+70,2026-06-27,Argentina,Jordan,B,Group Stage,1.0,2144.0,3.0,1.0,0,0,2,0,3,train,2.2727893135914012
+71,2026-06-27,Colombia,Portugal,A,Group Stage,13.0,2006.0,2.0,0.8,0,0,2,1,0,train,1.9259927249538193
+71,2026-06-27,Portugal,Colombia,B,Group Stage,5.0,1988.0,2.4,0.8,0,0,2,1,0,train,2.0324346207368897
+72,2026-06-27,Congo DR,Uzbekistan,A,Group Stage,46.0,1666.0,0.6,0.2,0,0,2,2,3,train,1.110539560404898
+72,2026-06-27,Uzbekistan,Congo DR,B,Group Stage,50.0,1677.0,0.4,0.0,0,0,2,8,1,train,1.2317841918305683
+73,2026-06-28,South Africa,Canada,A,Round of 32,60.0,1575.0,0.6,0.4,1,0,3,3,0,train,0.1518168373993949
+73,2026-06-28,Canada,South Africa,B,Round of 32,30.0,1748.0,2.2,0.4,1,1,3,3,1,train,1.7447534379885747
+74,2026-06-29,Germany,Paraguay,A,Round of 32,10.0,1916.0,3.2,0.8,1,0,3,4,1,train,1.4191800719590308
+74,2026-06-29,Paraguay,Germany,B,Round of 32,41.0,1815.0,1.4,0.4,1,0,3,4,1,train,0.9322834264102224
+75,2026-06-29,Netherlands,Morocco,A,Round of 32,8.0,1980.0,2.4,0.6,1,0,3,4,1,train,1.6677389679953147
+75,2026-06-29,Morocco,Netherlands,B,Round of 32,7.0,1877.0,2.2,0.6,1,0,3,3,1,train,1.4777292607100263
+76,2026-06-29,Brazil,Japan,A,Round of 32,6.0,2009.0,3.0,0.8,1,0,3,1,2,train,1.6256004531547539
+76,2026-06-29,Japan,Brazil,B,Round of 32,18.0,1910.0,1.8,0.6,1,0,3,3,1,train,1.3518724451619841
+77,2026-06-30,France,Sweden,A,Round of 32,3.0,2123.0,2.8,0.8,1,0,3,2,3,train,1.8852990647458647
+77,2026-06-30,Sweden,France,B,Round of 32,38.0,1742.0,2.0,0.2,1,0,3,7,0,train,1.0128610873061377
+78,2026-06-30,Côte d'Ivoire,Norway,A,Round of 32,33.0,1743.0,1.4,0.8,1,0,3,2,1,train,0.6581597567157935
+78,2026-06-30,Norway,Côte d'Ivoire,B,Round of 32,31.0,1918.0,2.4,0.6,1,0,3,7,2,train,1.2125519190541911
+79,2026-06-30,Mexico,Ecuador,A,Round of 32,14.0,1912.0,2.4,1.0,1,1,3,0,2,train,1.9088716173601645
+79,2026-06-30,Ecuador,Mexico,B,Round of 32,23.0,1902.0,1.4,0.6,1,0,3,2,0,train,1.2369023818060774
+80,2026-07-01,England,Congo DR,A,Round of 32,4.0,2038.0,2.0,0.8,1,0,3,2,2,train,1.6840243707341307
+80,2026-07-01,Congo DR,England,B,Round of 32,46.0,1712.0,1.0,0.2,1,0,3,3,1,train,0.7665241022710985
+81,2026-07-01,USA,Bosnia and Herzegovina,A,Round of 32,17.0,1781.0,2.4,0.6,1,1,3,4,2,train,1.8996505253799951
+81,2026-07-01,Bosnia and Herzegovina,USA,B,Round of 32,64.0,1622.0,1.2,0.2,1,0,3,6,0,train,0.34501840162607245
+82,2026-07-01,Belgium,Senegal,A,Round of 32,9.0,1884.0,2.6,0.6,1,0,3,2,3,train,1.4655004304216173
+82,2026-07-01,Senegal,Belgium,B,Round of 32,15.0,1842.0,2.0,0.2,1,0,3,6,2,train,1.5536614417995593
+83,2026-07-02,Portugal,Croatia,A,Round of 32,5.0,1990.0,2.0,0.6,1,0,3,1,2,test,1.6972915037204508
+83,2026-07-02,Croatia,Portugal,B,Round of 32,11.0,1905.0,1.4,0.6,1,0,3,5,1,test,1.4541296932731698
+84,2026-07-02,Spain,Austria,A,Round of 32,2.0,2144.0,1.8,0.6,1,0,3,0,3,test,2.01629657278308
+84,2026-07-02,Austria,Spain,B,Round of 32,24.0,1836.0,1.6,0.6,1,0,3,6,0,test,1.1354363237867033
+85,2026-07-02,Switzerland,Algeria,A,Round of 32,19.0,1914.0,2.4,0.6,1,0,3,3,2,test,1.3642338167420964
+85,2026-07-02,Algeria,Switzerland,B,Round of 32,28.0,1785.0,2.0,0.6,1,0,3,7,0,test,0.9989352771492712
+86,2026-07-03,Argentina,Cabo Verde,A,Round of 32,1.0,2148.0,2.6,1.0,1,0,3,1,3,test,1.8231521939975666
+86,2026-07-03,Cabo Verde,Argentina,B,Round of 32,67.0,1622.0,1.0,0.2,1,0,3,2,2,test,0.2608145714966592
+87,2026-07-03,Colombia,Ghana,A,Round of 32,13.0,2004.0,1.8,0.8,1,0,3,1,1,test,1.4645992321483259
+87,2026-07-03,Ghana,Colombia,B,Round of 32,73.0,1575.0,0.6,0.2,1,0,3,2,0,test,0.06512894316831552
+88,2026-07-03,Australia,Egypt,A,Round of 32,27.0,1800.0,0.6,0.2,1,0,3,2,1,test,1.2081896638701555
+88,2026-07-03,Egypt,Australia,B,Round of 32,29.0,1742.0,1.4,0.4,1,0,3,3,1,test,0.9782841267727178
+89,2026-07-04,Paraguay,France,A,Round of 16,41.0,1823.0,1.4,0.4,1,0,4,5,0,test,0.9251784196156845
+89,2026-07-04,France,Paraguay,B,Round of 16,3.0,2134.0,3.2,1.0,1,0,4,2,1,test,1.764340602787916
+90,2026-07-04,Canada,Morocco,A,Round of 16,30.0,1764.0,2.0,0.4,1,1,4,3,0,test,1.738109326045098
+90,2026-07-04,Morocco,Canada,B,Round of 16,7.0,1886.0,1.6,0.4,1,0,4,4,3,test,1.5775068212107908
+91,2026-07-05,Brazil,Norway,A,Round of 16,6.0,2031.0,2.2,0.8,1,0,4,2,1,test,1.6169187429685608
+91,2026-07-05,Norway,Brazil,B,Round of 16,31.0,1934.0,2.2,0.6,1,0,4,8,2,test,1.2134134919708057
+92,2026-07-05,Mexico,England,A,Round of 16,14.0,1943.0,2.6,1.0,1,1,4,0,2,test,1.9438906620679506
+92,2026-07-05,England,Mexico,B,Round of 16,4.0,2046.0,2.2,0.8,1,0,4,3,3,test,1.6838163496667804
+93,2026-07-06,Portugal,Spain,A,Round of 16,5.0,2013.0,2.0,0.6,1,0,4,2,0,test,1.7180556821228004
+93,2026-07-06,Spain,Portugal,B,Round of 16,2.0,2159.0,2.2,0.8,1,0,4,0,1,test,1.9027698935443011
+94,2026-07-06,USA,Belgium,A,Round of 16,17.0,1798.0,2.2,0.6,1,1,4,4,1,test,1.8948643591163108
+94,2026-07-06,Belgium,USA,B,Round of 16,9.0,1910.0,2.8,0.6,1,0,4,4,4,test,1.5062411164506238
+95,2026-07-07,Argentina,Egypt,A,Round of 16,1.0,2151.0,2.8,1.0,1,0,4,3,3,test,1.8211601293913453
+95,2026-07-07,Egypt,Argentina,B,Round of 16,29.0,1747.0,1.4,0.2,1,0,4,4,2,test,1.0913208617358754
+96,2026-07-07,Switzerland,Colombia,A,Round of 16,19.0,1943.0,2.0,0.6,1,0,4,3,0,test,1.3748460129087345
+96,2026-07-07,Colombia,Switzerland,B,Round of 16,13.0,2009.0,1.4,0.8,1,0,4,1,0,test,1.4306207319999438
+97,2026-07-09,France,Morocco,A,Quarter-finals,3.0,2143.0,2.8,1.0,1,0,5,2,2,test,1.7377938853587034
+97,2026-07-09,Morocco,France,B,Quarter-finals,7.0,1921.0,2.0,0.6,1,0,5,4,0,test,1.5011390555678619
+98,2026-07-10,Spain,Belgium,A,Quarter-finals,2.0,2177.0,1.8,0.8,1,0,5,0,2,test,1.8929446872332216
+98,2026-07-10,Belgium,Spain,B,Quarter-finals,9.0,1961.0,2.6,0.6,1,0,5,5,1,test,1.5721307881599766
+99,2026-07-11,Norway,England,A,Quarter-finals,31.0,1972.0,2.4,0.8,1,0,5,9,1,test,1.1432282625001584
+99,2026-07-11,England,Norway,B,Quarter-finals,4.0,2076.0,2.2,0.8,1,0,5,5,2,test,1.7250918326877691
+100,2026-07-11,Argentina,Switzerland,A,Quarter-finals,1.0,2156.0,2.8,1.0,1,0,5,5,3,test,1.8159869704175209
+100,2026-07-11,Switzerland,Argentina,B,Quarter-finals,19.0,1949.0,1.8,0.6,1,0,5,3,1,test,1.349622444167333
+101,2026-07-14,France,Spain,A,Semi-finals,3.0,2163.0,2.6,1.0,1,0,6,2,0,test,1.738581556134397
+101,2026-07-14,Spain,France,B,Semi-finals,2.0,2190.0,2.2,1.0,1,0,6,1,2,test,1.7832078014949493
+102,2026-07-15,England,Argentina,A,Semi-finals,4.0,2097.0,1.8,0.8,1,0,6,6,1,test,1.7283461482761584
+102,2026-07-15,Argentina,England,B,Semi-finals,1.0,2177.0,2.8,1.0,1,0,6,6,2,test,1.833035257460285
+103,2026-07-18,France,England,A,Bronze Final,3.0,2121.0,2.0,0.8,1,0,7,4,4,test,1.751109571825834
+103,2026-07-18,England,France,B,Bronze Final,4.0,2074.0,2.0,0.8,1,0,7,8,6,test,1.6780474959953307
+104,2026-07-19,Spain,Argentina,A,Final,2.0,2232.0,1.8,1.0,1,0,7,1,1,test,1.81797329149889
+104,2026-07-19,Argentina,Spain,B,Final,1.0,2200.0,2.8,1.0,1,0,7,7,0,test,1.8537994358626355

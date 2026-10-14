@@ -1,0 +1,9 @@
+variable,coefficient
+fifa_rank_diff,-0.016454228470214837
+elo_rating_diff,0.0017125868071527193
+last5_avg_goals_scored_diff,0.21006051210636942
+last5_avg_goals_conceded_diff,-0.025203016875546734
+last5_win_rate_diff,0.24353039071600374
+last5_clean_sheet_rate_diff,0.6050939515464113
+rest_days_diff,-0.012783111548162824
+last5_opponent_strength_diff,-0.013512007864683746

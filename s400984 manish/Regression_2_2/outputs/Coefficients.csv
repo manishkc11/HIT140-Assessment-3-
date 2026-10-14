@@ -1,0 +1,9 @@
+variable,coefficient
+team_fifa_rank,-0.01576136832062006
+team_elo_rating_before,0.0018579456797925185
+team_last5_avg_goals_scored,0.034484928635937544
+team_last5_win_rate,-0.6285778939853632
+is_knockout,-0.4213063586257519
+is_host_nation,0.743495062548972
+wc_matches_played_before,-0.029474257092969594
+wc_goals_conceded_before,0.007505684860091359
