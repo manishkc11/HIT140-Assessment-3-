@@ -22,33 +22,34 @@ Each member's folder contains their relevant Python code and supporting files. O
 
 
 
+## Repository Structure
 
+```text
 HIT140-Assessment-3/
 │
 ├── README.md
 │
 ├── Member_1_Enosh/
-│   └── Data Preparation and EDA
+│   └── Data_Preparation_and_EDA/
 │
 ├── Member_2_Manish/
 │   ├── Regression_2_1/
-│   │   ├── Python notebook (.ipynb)
-│   │   ├── Python script (.py)
-│   │   ├── Dataset (.xlsx)
-│   │   └── Model outputs/
+│   │   ├── Model.ipynb
+│   │   ├── Model.py
+│   │   ├── Dataset.xlsx
+│   │   └── Model_Outputs/
 │   │
 │   └── Regression_2_2/
-│       ├── Python notebook (.ipynb)
-│       ├── Python script (.py)
+│       ├── Regression_2_2.ipynb
+│       ├── Regression_2_2.py
 │       ├── data/
 │       └── outputs/
 │
 ├── Member_3_Suraj/
-│   └── Model Evaluation
+│   └── Model_Evaluation/
 │
 └── Member_4_Himanshu/
-    └── Interpretation and Discussion
-
-
+    └── Interpretation_and_Discussion/
+```
 
     
