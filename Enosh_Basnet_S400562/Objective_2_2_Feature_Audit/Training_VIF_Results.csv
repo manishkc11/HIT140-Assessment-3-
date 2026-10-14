@@ -1,0 +1,9 @@
+code,feature,training_vif,screen
+X1,team_fifa_rank,5.700591,Above 5: investigate
+X2,team_elo_rating_before,6.166231,Above 5: investigate
+X3,team_last5_avg_goals_scored,2.570109,Below 5
+X4,team_last5_win_rate,3.095833,Below 5
+X5,is_knockout,1.811268,Below 5
+X6,is_host_nation,1.128669,Below 5
+X7,wc_matches_played_before,2.908421,Below 5
+X8,wc_goals_conceded_before,2.222665,Below 5

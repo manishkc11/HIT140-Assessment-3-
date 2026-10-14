@@ -1,0 +1,9 @@
+variable_code,column_name,description,pearson_r_with_goal_difference,spearman_rho_with_goal_difference,n_observations
+X1,fifa_rank_diff,FIFA ranking difference,-0.621121067,-0.630276231,104
+X2,elo_rating_diff,Elo rating difference,0.626689575,0.642080935,104
+X3,last5_avg_goals_scored_diff,Last-5 average goals scored difference,0.436432896,0.498138717,104
+X4,last5_avg_goals_conceded_diff,Last-5 average goals conceded difference,-0.357169472,-0.339392370,104
+X5,last5_win_rate_diff,Last-5 win-rate difference,0.486448420,0.498500015,104
+X6,last5_clean_sheet_rate_diff,Last-5 clean-sheet-rate difference,0.192668534,0.164359484,104
+X7,rest_days_diff,Rest-days difference,0.042068456,0.068559567,104
+X8,last5_opponent_strength_diff,Last-5 opponent-strength difference,-0.209256664,-0.175645479,104

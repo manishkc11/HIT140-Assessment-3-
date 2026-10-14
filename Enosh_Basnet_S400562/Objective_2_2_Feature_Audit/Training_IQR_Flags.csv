@@ -1,0 +1,5 @@
+match_id,team,feature,observed_value,training_lower_fence,training_upper_fence,notes
+16,Belgium,team_last5_avg_goals_scored,4.0,-0.3000000000000005,3.7000000000000006,"IQR screening flag, not confirmed error"
+33,Germany,team_last5_avg_goals_scored,3.8,-0.3000000000000005,3.7000000000000006,"IQR screening flag, not confirmed error"
+58,Tunisia,wc_goals_conceded_before,9.0,-4.5,7.5,"IQR screening flag, not confirmed error"
+72,Uzbekistan,wc_goals_conceded_before,8.0,-4.5,7.5,"IQR screening flag, not confirmed error"
