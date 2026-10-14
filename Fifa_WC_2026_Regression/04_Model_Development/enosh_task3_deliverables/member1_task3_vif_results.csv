@@ -1,0 +1,9 @@
+variable_code,column_name,vif_with_intercept,interpretation,auxiliary_r_squared,independent_numpy_vif
+X1,fifa_rank_diff,5.625298218,Elevated (>5); investigate,0.822231647,5.625298218
+X2,elo_rating_diff,6.274925436,Elevated (>5); investigate,0.840635557,6.274925436
+X3,last5_avg_goals_scored_diff,4.264086944,Moderate dependence; monitor,0.765483206,4.264086944
+X4,last5_avg_goals_conceded_diff,3.030687478,Moderate dependence; monitor,0.670041861,3.030687478
+X5,last5_win_rate_diff,6.134044821,Elevated (>5); investigate,0.836975433,6.134044821
+X6,last5_clean_sheet_rate_diff,3.116830738,Moderate dependence; monitor,0.679161275,3.116830738
+X7,rest_days_diff,1.048773599,Low dependence,0.046505365,1.048773599
+X8,last5_opponent_strength_diff,1.305685107,Low dependence,0.234118552,1.305685107

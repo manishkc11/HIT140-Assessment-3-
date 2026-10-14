@@ -1,0 +1,36 @@
+{
+  "decision": "REVISION REQUIRED",
+  "errors": [],
+  "warnings": [],
+  "rows": 208,
+  "matches": 104,
+  "evidence": {
+    "evidence_rows": 1040,
+    "historical_dates_checked": 1040,
+    "historical_date_violations": 0,
+    "evidence_five_history_groups": 208,
+    "evidence_missing_history_groups": 0,
+    "evidence_avg_goals_inconsistent": 0,
+    "evidence_win_rate_inconsistent": 0
+  },
+  "source_master_equal": true,
+  "training_matches": 82,
+  "test_matches": 22,
+  "vif": {
+    "team_fifa_rank": 5.700591053379917,
+    "team_elo_rating_before": 6.166231364377906,
+    "team_last5_avg_goals_scored": 2.5701087848836184,
+    "team_last5_win_rate": 3.095832854225399,
+    "is_knockout": 1.811267585309696,
+    "is_host_nation": 1.1286692414982986,
+    "wc_matches_played_before": 2.908421398748177,
+    "wc_goals_conceded_before": 2.222664756598236
+  },
+  "main_metrics": {
+    "test_MAE": 0.981870549231644,
+    "test_RMSE": 1.266169518717473,
+    "test_R2": 0.0836236657070552
+  },
+  "training_iqr_flags": 4,
+  "original_master_sha256": "71da963689f5c79e08c4375114665b2388e72d219d58a2294a7afa6dda660d88"
+}

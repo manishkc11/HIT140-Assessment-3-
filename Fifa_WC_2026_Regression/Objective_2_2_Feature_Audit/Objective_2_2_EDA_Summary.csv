@@ -1,0 +1,10 @@
+column_name,variable_code,n,mean,std_dev,min,q1,median,q3,max,missing
+team_fifa_rank,X1,208,27.759615,22.945217,1,8.75,22.5,41,85,0
+team_elo_rating_before,X2,208,1833.5529,185.82051,1421,1712,1839.5,1951.75,2232,0
+team_last5_avg_goals_scored,X3,208,1.7855769,0.72896171,0.2,1.4,1.8,2.2,4,0
+team_last5_win_rate,X4,208,0.51634615,0.27892498,0,0.2,0.6,0.8,1,0
+is_knockout,X5,208,0.30769231,0.46265195,0,0,0,1,1,0
+is_host_nation,X6,208,0.072115385,0.25930294,0,0,0,0,1,0
+wc_matches_played_before,X7,208,1.9038462,1.6595164,0,1,2,3,7,0
+wc_goals_conceded_before,X8,208,2.0817308,2.1953074,0,0,1,3,9,0
+goals_scored,Y,208,1.4807692,1.3934337,0,0,1,2,7,0

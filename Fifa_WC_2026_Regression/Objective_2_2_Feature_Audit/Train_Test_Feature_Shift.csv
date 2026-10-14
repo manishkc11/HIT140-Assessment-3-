@@ -1,0 +1,9 @@
+code,feature,train_mean,test_mean,train_min,train_max,test_min,test_max,test_rows_outside_train_range
+X1,team_fifa_rank,31.39024,14.22727,1,85,1,73,0
+X2,team_elo_rating_before,1792.768,1985.568,1421,2157,1575,2232,7
+X3,team_last5_avg_goals_scored,1.717073,2.040909,0.2,4,0.6,3.2,0
+X4,team_last5_win_rate,0.4682927,0.6954545,0,1,0.2,1,0
+X5,is_knockout,0.1219512,1,0,1,1,1,0
+X6,is_host_nation,0.07317073,0.06818182,0,1,0,1,0
+X7,wc_matches_played_before,1.243902,4.363636,0,3,3,7,32
+X8,wc_goals_conceded_before,1.731707,3.386364,0,9,0,9,0
