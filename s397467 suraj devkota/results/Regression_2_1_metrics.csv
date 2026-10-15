@@ -1,0 +1,2 @@
+Model,Total_Rows,Training_Rows,Testing_Rows,Number_of_Predictors,Train_R2,Test_R2,Adjusted_Test_R2,Test_MAE,Test_RMSE
+Regression_2_1,104,82,22,8,0.4487226385504878,0.11472391955190553,-0.43006136072384504,1.2488754681913679,1.5402338801830038
